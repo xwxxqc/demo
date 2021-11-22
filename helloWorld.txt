@@ -4,8 +4,8 @@ HelloWorld!
 HelloWorld!
 HelloWorld!
 HelloWorld!
-HelloWorld!
-HelloWorld!
+HelloWorld!HelloJava
+HelloWorld!HelloJava
 HelloGit!!!
 HelloGit!!!
 HelloGit!!!
