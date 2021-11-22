@@ -1,4 +1,4 @@
-HelloWorld!
+HelloWorld!HelloJava
 HelloWorld!
 HelloWorld!
 HelloWorld!
@@ -11,6 +11,6 @@ HelloGit!!!
 HelloGit!!!
 HelloGit!!!
 HelloGit!!!
-HelloGit!!!
+HelloGit!!!HelloJava
 HelloGit!!!
 HelloGit!!!
